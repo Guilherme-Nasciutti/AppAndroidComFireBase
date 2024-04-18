@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Imepac</string>
+    <string name="entrar">Entrar</string>
+    <string name="text_cadastro">Crie uma conta clicando aqui</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="email">email</string>
+    <string name="nome_do_usuario">Nome do usuario</string>
+    <string name="nome_usuario">Nome Usuário</string>
+</resources>
